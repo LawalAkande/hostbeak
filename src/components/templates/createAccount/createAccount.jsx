@@ -1,5 +1,5 @@
 import React from "react";
-import sign_up from "../../../images/image-2.png";
+import sign_up from "../../../images/email-header-image.png";
 import { SignUpButton } from "../../atoms/buttons";
 
 const CreatAccount = () => {
